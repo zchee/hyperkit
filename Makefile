@@ -56,6 +56,7 @@ XHYVE_SRC := \
 	src/pci_virtio_net_vmnet.c \
 	src/pci_virtio_net_vpnkit.c \
 	src/pci_virtio_rnd.c \
+	src/pci_virtio_sock.c \
 	src/pm.c \
 	src/post.c \
 	src/rtc.c \
